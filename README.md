@@ -25,7 +25,7 @@ It is created for practicing frontend development skills.
 ---
 
 ##  Live Demo
-(Will be added after deployment)
+https://naveena1406.github.io/login-page/
 
 ---
 
