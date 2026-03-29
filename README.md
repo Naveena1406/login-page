@@ -1,36 +1,35 @@
 # Login Page Project
 
-## 📌 About the Project
+##  About the Project
 This is a simple Login Page UI built using HTML and CSS.  
 It is created for practicing frontend development skills.
 
 ---
 
-## 🚀 Features
+##  Features
 - Clean and simple UI
 - Login form with username and password fields
-- Responsive design (if you add later)
 - Modern styling using CSS
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 
 ---
 
-## 📸 Preview
-(Add screenshot here)
+##  Preview
+ <img width="956" height="469" alt="image" src="https://github.com/user-attachments/assets/dc3b7c70-cf7e-4c52-b76b-d9e51268b8f0" />
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 (Will be added after deployment)
 
 ---
 
-## 📚 Purpose
+##  Purpose
 This project helps me understand:
 - Form design
 - CSS styling
